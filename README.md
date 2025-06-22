@@ -9,7 +9,10 @@
 - ⚡ Fun fact: I sometimes code just to fix the bugs I created 🤭
 
 ---
+<p align="left">
+  <img align='right' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="170" height="190">
 
+</p>
 
 
 <div align="left">
