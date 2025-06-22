@@ -1,18 +1,35 @@
 <h1 align="center">Hi 👋, I'm Kuldeep Das</h1>
-<h3 align="center">A passionate developer and tech enthusiast from India</h3>
+<h3 align="center">A passionate developer and tech enthusiast from India 🇮🇳</h3>
 
 - 🔭 I’m currently working on: `Decentralized File Management System`
-- 🌱 I’m learning: `Blockchain`, `React.js`, `Smart Contracts`
-- 👯 I’m looking to collaborate on: `Open Source Blockchain Projects`
-- 💬 Ask me about: `Python`, `C++`, `Web Development`, `Hackathons`
-- 📫 How to reach me: **kuldas1531@gmail.com**
-- ⚡ Fun fact: I still break things just to fix them 😄
+- 🌱 I’m learning: `Blockchain`, `Flask`, `Flutter`, `Solidity`, `LTspice`, `NetSim`
+- 👯 I’m looking to collaborate on: `Open Source Projects` and `Hackathons`
+- 💬 Ask me about: `Python`, `C++`, `Web Dev`, `DSA`, `Embedded Systems`
+- 📫 Reach me at: **kuldas1531@gmail.com**
+- ⚡ Fun fact: I sometimes code just to fix the bugs I created 🤭
 
 ---
 
 ### 🛠️ Languages and Tools:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,react,php,mysql,git,linux,vscode" />
+  <!-- Programming Languages -->
+  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,nodejs,react,nextjs,flutter,php,solidity" />
+  
+  <!-- Backend / Frameworks -->
+  <img src="https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask&logoColor=white" />
+  
+  <!-- Blockchain / Tools -->
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  
+  <!-- Electronics / Simulation -->
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/LTSpice-CC0000?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/NetSim-5C2D91?style=for-the-badge&logoColor=white" />
+  
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
 </p>
 
 ---
@@ -25,5 +42,10 @@
 
 ---
 
-### 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-link)
+### 🌐 Connect with Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-link)  
+[![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube)](https://youtube.com/@yourchannel)
+
+---
+
+![visitors](https://komarev.com/ghpvc/?username=kuldeepdas&color=blue)
