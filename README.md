@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Kuldeep Das</h1>
-<h3 align="center">A passionate developer and tech enthusiast from India 🇮🇳</h3>
+<h3 align="center">A passionate developer and tech enthusiast from India</h3>
 
 - 🔭 I’m currently working on: `Decentralized File Management System`
 - 🌱 I’m learning: `Blockchain`, `Flask`, `Flutter`, `Solidity`, `LTspice`, `NetSim`
-- 👯 I’m looking to collaborate on: `Open Source Projects` and `Hackathons`
-- 💬 Ask me about: `Python`, `C++`, `Web Dev`, `DSA`, `Embedded Systems`
+- 👯 I’m looking to collaborate on: `Open Source Projects` and 
+- 💬 Ask me about: `Python`, `C++`, `Web Dev`, `DSA`
 - 📫 Reach me at: **kuldas1531@gmail.com**
 - ⚡ Fun fact: I sometimes code just to fix the bugs I created 🤭
 
@@ -44,8 +44,8 @@
 
 ### 🌐 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-link)  
-[![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube)](https://youtube.com/@yourchannel)
+
 
 ---
 
-![visitors](https://komarev.com/ghpvc/?username=kuldeepdas&color=blue)
+
