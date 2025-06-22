@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on: `Decentralized File Management System`
 - 🌱 I’m learning: `Blockchain`, `Flask`, `Flutter`, `Solidity`, `LTspice`, `NetSim`
-- 👯 I’m looking to collaborate on: `Open Source Projects` and 
+- 👯 I’m looking to collaborate on: `Open Source Projects`
 - 💬 Ask me about: `Python`, `C++`, `Web Dev`, `DSA`
 - 📫 Reach me at: **kuldas1531@gmail.com**
 - ⚡ Fun fact: I sometimes code just to fix the bugs I created 🤭
