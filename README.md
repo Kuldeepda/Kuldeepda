@@ -13,7 +13,7 @@
 ### 🛠️ Languages and Tools:
 <p align="left">
   <!-- Programming Languages -->
-  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,nodejs,react,nextjs,flutter,php,solidity" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,nodejs,react,nextjs,flutter,php,solidity,dart" />
   
   <!-- Backend / Frameworks -->
   <img src="https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask&logoColor=white" />
