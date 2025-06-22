@@ -10,6 +10,15 @@
 
 ---
 
+
+
+<div align="left">
+  <img  style="margin-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=Kuldeepda&show_icons=true&theme=radical" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kuldeepda&layout=compact&langs_count=10&theme=radical" height="180" alt="languages graph"  />
+</div>
+
+---
+
 <h3 align="left">Connect with me:</h3>
 <table>
   <tr>
