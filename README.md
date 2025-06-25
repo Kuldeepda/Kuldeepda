@@ -11,7 +11,7 @@
 ---
 <p align="left">
   <img align='right' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="170" height="190">
-   <img src="https://streak-stats.demolab.com/?user=Kuldeepda&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
+   <img src="https://streak-stats.demolab.com/?user=Kuldeepda&theme=radical&hide_border=false" alt="GitHub Streak Stats" />
 
 </p>
 
