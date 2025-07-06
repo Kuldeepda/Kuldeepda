@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer and tech enthusiast from India</h3>
 
 - 🔭 I’m currently working on: `Decentralized File Management System`
-- 🌱 I’m learning: `Blockchain`, `Flask`, `Flutter`, `Solidity`, `LTspice`, `NetSim`
+- 🌱 I’m learning: `Blockchain`, `Solidity`, `LTspice`, `NetSim`
 - 👯 I’m looking to collaborate on: `Open Source Projects`
 - 💬 Ask me about: `Python`, `C++`, `Web Dev`, `DSA`
 - 📫 Reach me at: **kuldas1531@gmail.com**
